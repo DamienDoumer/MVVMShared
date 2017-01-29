@@ -1,0 +1,5 @@
+C:\Users\Damien\Desktop\MVVMShared\MVVMShared\MVVMShared\obj\Debug\MVVMShared.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\MVVMShared\MVVMShared\MVVMShared\bin\Debug\MVVMShared.dll
+C:\Users\Damien\Desktop\MVVMShared\MVVMShared\MVVMShared\bin\Debug\MVVMShared.pdb
+C:\Users\Damien\Desktop\MVVMShared\MVVMShared\MVVMShared\obj\Debug\MVVMShared.dll
+C:\Users\Damien\Desktop\MVVMShared\MVVMShared\MVVMShared\obj\Debug\MVVMShared.pdb
